@@ -13,7 +13,7 @@ function createEntry(entry) {
   );
 }
 
-function App(props) {
+function App() {
   return (
     <div>
       <h1>
